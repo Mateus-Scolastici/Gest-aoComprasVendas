@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GestaoComprasVendas
-build_property.ProjectDir = C:\Users\mateu\Área de Trabalho\Projetos\GestaoComprasVendas\GestaoComprasVendas\
+build_property.ProjectDir = c:\Users\mateu\Área de Trabalho\Projetos\GestaoComprasVendas\GestaoComprasVendas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
